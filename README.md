@@ -1,4 +1,4 @@
-# student-info-crud-terminal_based
+# Student-Info-CRUD-Terminal_based
 Student Database Information CRUD (Terminal-Based App)
 
 
